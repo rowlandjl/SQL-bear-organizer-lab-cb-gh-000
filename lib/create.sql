@@ -1,6 +1,6 @@
 CREATE TABLE bears (
   id INTEGER PRIMARY KEY,
-  name text,
+  name TEXT,
   age integer,
   gender char(1),
   color text,
